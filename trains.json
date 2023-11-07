@@ -1,0 +1,41 @@
+{
+    "coach":{
+        "seats":[
+            {
+                "number": 1,
+                "row": 1,
+                "isBooked":false
+            },
+            {
+                "number": 2,
+                "row": 1,
+                "isBooked":true
+            },
+            {
+                "number": 3,
+                "row": 1,
+                "isBooked":true
+            },
+            {
+                "number": 4,
+                "row": 1,
+                "isBooked":false
+            },
+            {
+                "number": 5,
+                "row": 1,
+                "isBooked":true
+            },
+            {
+                "number": 6,
+                "row": 1,
+                "isBooked":false
+            },
+            {
+                "number": 7,
+                "row": 2,
+                "isBooked":false
+            }
+        ]
+    }
+}
